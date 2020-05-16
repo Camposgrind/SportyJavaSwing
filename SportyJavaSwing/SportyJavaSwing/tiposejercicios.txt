@@ -1,0 +1,9 @@
+andar;3.0
+correr;6.2
+bicicleta;5.8
+nadar;13.0
+abdominales;8.9
+nadar;7.8
+spinning;6.8
+correr;3.0
+una chorrada;0.0
